@@ -1,0 +1,11 @@
+Cliente: 
+Correo: ricardobs2024@gmail.com
+Contraseña: 123456
+
+Emprendedor: 
+Correo: ricardobs2023@gmail.com
+Contraseña: 123456
+
+Independiente: 
+Correo: ricardobs2022@gmail.com
+Contraseña: 123456
